@@ -1,1 +1,3 @@
 echo "Hi"
+name = appu
+echo "$name"
