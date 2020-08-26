@@ -1,4 +1,5 @@
-echo "Hi"
-name = appu
-sleep 20
-echo "$name"
+class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!"); 
+    }
+}
