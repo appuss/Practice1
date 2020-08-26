@@ -1,3 +1,4 @@
 echo "Hi"
 name = appu
+sleep 20
 echo "$name"
